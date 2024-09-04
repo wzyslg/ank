@@ -4,7 +4,7 @@
 
 anyhk是一家成立于2019年12月的服务器提供商，主要提供香港HKT VPS、香港HGC VPS、台湾Hinet VPS等服务。近日，anyhk推出了新的香港BGP线路KVM VPS，支持随机IPv6解锁流媒体，并提供五折优惠。其中一款特价年付VPS为100Mbps带宽，月流量1TB，折后年付仅95元；其他几款均为1Gbps峰值带宽，折后月付19元起。需要注意的是，香港BGP线路无国内优化路由，国内使用可能会有较高的延迟。
 
-![anyhk](https://github.com/user-attachments/assets/b6008378-2fbc-4626-a4cf-9180c88e5231)
+![anyhk](https://github.com/user-attachments/assets/757dce72-a7ce-4fcf-ada6-23ec56092e96)
 
 ## anyhk 官网地址
 
